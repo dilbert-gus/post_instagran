@@ -1,0 +1,61 @@
+.flex-container{
+    background-color: white ;
+    width: 28rem;
+    height: 40.5rem;
+}
+
+h1{
+    font-size: 17px;
+    padding-top:1rem;
+}
+
+h2{
+    font-size: 16px;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    }
+
+.fa-html5 {
+    font-size:2.5rem;
+    padding-right:1rem;
+    padding-top: 1.5rem;
+}
+
+.fa-ellipsis-v{
+  font-size: 2.5rem;  
+  padding-bottom: 1.5rem;
+  padding-right: 0.4rem;
+}
+
+.fa-heart-o{
+   font-size:35px; 
+   padding-left: 12px; 
+}
+
+.fa-comment-o{
+  font-size:35px;  
+}
+
+.fa-paper-plane-o{
+    font-size:35px;
+}
+
+.fa-bookmark-o{
+    font-size: 2rem;
+ padding-left: 15.5rem;
+}
+
+i{
+    padding: 5px;
+    padding-top: 12px;
+}
+
+p{
+    padding-top:  10px;
+    padding-left: 12px; 
+}
