@@ -4,13 +4,20 @@
     height: 40.5rem;
 }
 
+.titulo{
+    text-align: center;
+}
+
 h1{
     font-size: 17px;
-    padding-top:1rem;
 }
 
 h2{
     font-size: 16px;
+}
+
+.post{
+    margin-bottom: 1rem;
 }
 
 body{
@@ -18,17 +25,18 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 3rem;
+    margin-bottom: 2rem;
     }
 
 .fa-html5 {
     font-size:2.5rem;
     padding-right:1rem;
-    padding-top: 1.5rem;
+    margin-top: 5px;
 }
 
 .fa-ellipsis-v{
   font-size: 2.5rem;  
-  padding-bottom: 1.5rem;
+  margin-top: 5px;
   padding-right: 0.4rem;
 }
 
